@@ -40,18 +40,6 @@ Desenvolvedor Full-Stack com foco em sistemas multiplataforma e análise de dado
 
 ---
 
-## 📸 Demonstração
-
-*(Adicione aqui prints do site depois — opcional)*
-
----
-
-## 🔗 Acesso
-
-*(Coloque aqui o link quando publicar — GitHub Pages ou outro)*
-
----
-
 ## 📌 Status do Projeto
 
 🚧 Em desenvolvimento
