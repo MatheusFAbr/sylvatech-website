@@ -101,7 +101,7 @@ export default function ContactSection() {
         <div className="mt-10 flex items-center gap-3">
           <Mail className="w-4 h-4 text-primary" />
           <span className="font-mono text-sm text-muted-foreground">
-            sylvatech@gmail.com
+            sylvatech101@gmail.com
           </span>
         </div>
       </div>
